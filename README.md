@@ -9,3 +9,5 @@ It takes advantage of the `RemoteVoiceVolume` variable found in the class `Disso
 As of right now the keybinds taken are:
 - K - By keeping this button pressed, it mutes everyone with 100% effect.
 - R - By keeping this button pressed, it lowers everyone's volume with 90% effect.
+
+The keybinds and the percentage effect can be changed in the code.
