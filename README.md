@@ -7,5 +7,5 @@ Voice Audio Accessibility is a Lethal Company plugin which allows you to mute or
 It takes advantage of the `RemoteVoiceVolume` variable found in the class `DissonanceComms`, which is part of the `DissonanceVoip` Assembly.
 
 As of right now the keybinds taken are:
-- K - Mutes everyone with 100% effect.
-- R - Lowers everyone's volume with 90% effect.
+- K - By keeping this button pressed, it mutes everyone with 100% effect.
+- R - By keeping this button pressed, it lowers everyone's volume with 90% effect.
