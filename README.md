@@ -7,5 +7,5 @@ Lethal Company Plugin which allows you to mute or reduce the volume of others wh
 It takes advantage of the `RemoteVoiceVolume` variable found in the class `DissonanceComms`, which is part of the `DissonanceVoip` Assembly.
 
 As of right now the keybinds taken are:
-K - Mutes everyone with 100% effect.
-R - Lowers everyone's volume with 90% effect.
+- K - Mutes everyone with 100% effect.
+- R - Lowers everyone's volume with 90% effect.
